@@ -9,3 +9,5 @@ WeatherPy is Completed
 WeatherPy is Rivised (clean-up)
 
 WeatherPy is Rivised (remove sensitive data)
+
+VacationPy first commit
