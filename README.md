@@ -13,3 +13,5 @@ WeatherPy is Rivised (remove sensitive data)
 VacationPy first commit
 
 VacationPy Completed - user input added for desired conditions
+
+All done. Added user inputs for the selection of the ideal city.
